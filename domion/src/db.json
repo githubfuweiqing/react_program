@@ -1,0 +1,71 @@
+{
+  "imgs": [
+    {
+      "id":1,
+      "imgUrl": "http://pic.dominos.com.cn:8000/ApiPicture/ECManager/20180202/986a6d616d804bf4aebb0d416b70cccf.jpg"
+    },
+    {
+			 "id":2,   	
+    	"imgUrl": "http://pic.dominos.com.cn:8000/ApiPicture/ECManager/20180202/521d43f595234f1b9641c98df2767238.jpg"
+    },
+    {
+    	"id":3,
+    	"imgUrl": "http://pic.dominos.com.cn:8000/ApiPicture/ECManager/20180202/8bfe4189acfa4540aca6bd43d0358681.jpg"
+    },  
+    {
+    	"id":4,
+    	"imgUrl": "http://pic.dominos.com.cn:8000/ApiPicture/ECManager/20180202/ce92000c51c343f9a8612e9eecbbf9c7.jpg"
+    },  
+    {
+    	"id":5,
+    	"imgUrl": "http://pic.dominos.com.cn:8000/ApiPicture/ECManager/20171124/0227726103c7445cb04483b236b291bb.jpg"
+    }   
+  ],
+  "classicflavor":[
+  	{
+  		"id":1,
+ 			"imgUrl":"http://pic.dominos.com.cn:8000/ApiPicture/20180228/64dc880f956f47a398a28babbb227448.jpg",
+ 			"name":"照烧风味牛肉土豆披萨"
+  	},
+  	{
+  		"id":2,
+ 			"imgUrl":"http://pic.dominos.com.cn:8000/ApiPicture/20171026/1e230274c622423fa6a243f70e35d732.jpg",
+ 			"name":"美式BBQ猪颈肉披萨"
+  	},
+  	{
+  		"id":3,
+			"imgUrl":"http://pic.dominos.com.cn:8000/ApiPicture/20170601/7dee57e2ecf04f8b8a9154b99345fd0d.png",
+			"name":"德式喷香猪肘披萨"
+  	},
+  	{
+  		"id":4,
+ 			"imgUrl":"http://pic.dominos.com.cn:8000/ApiPicture/20180301/27804b23fce343608545ef362fc136f4.jpg",
+ 			"name":"大吉大利披萨"
+  	},
+  	{
+  		"id":5,
+ 			"imgUrl":"http://pic.dominos.com.cn:8000/ApiPicture/20180131/88df41da7ce049a7b11e5d18b3f5d84d.jpg",
+ 			"name":"臻享牛油果芝士鸡披萨"
+  	},
+  	{
+  		"id":6,
+ 			"imgUrl":"http://pic.dominos.com.cn:8000/ApiPicture/20170723/020d7cb711b34ed3b8cf6213d6995243.jpg",
+ 			"name":"照烧风味章鱼鲜虾披萨"
+  	},
+  	{
+  		"id":7,
+ 			"imgUrl":"http://pic.dominos.com.cn:8000/ApiPicture/20160919/fe0d64ffef6846c8aa2227db3c9014c4.png",
+ 			"name":"法式酥香嫩鱼披萨"
+  	},
+  	{
+  		"id":8,
+ 			"imgUrl":"http://pic.dominos.com.cn:8000/ApiPicture/20161202/7e40d3e6c4d443d3af4f2ac0d947c969.png",
+ 			"name":"奥尔良浓香脆鸡披萨"
+  	},
+  	{
+  		"id":9,
+ 			"imgUrl":"http://pic.dominos.com.cn:8000/ApiPicture/20161011/f8342468b1b046079c9cf2a1d558e7a3.jpg",
+ 			"name":"浓香芝士披萨"
+  	}
+  ]
+}

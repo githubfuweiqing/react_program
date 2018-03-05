@@ -1,0 +1,52 @@
+/*.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}*/
+*{
+	margin:0;
+	padding:0;
+}
+a{
+	text-decoration:none;
+}
+/*逻辑像素的width:375px,dpr=3;  1vw=375*1%=3.75px*/
+html,body{
+	height:100%;
+}
+html{
+	font-size:26.67vw;
+}
+body{
+	display:flex;
+	flex-decoration:column;
+	justify-content:space-between;
+	background: lightgray;
+}
+section{
+	flex:1;
+}
+

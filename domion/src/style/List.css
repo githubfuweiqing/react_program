@@ -1,0 +1,37 @@
+/*header*/
+.list header{
+	--height:42.5px;
+	height:0.425rem;
+	display:flex;
+	justify-content:center;
+	background: #de1e3f;
+	align-items: center;
+}
+.list header span{
+	font-size:22px;
+	color: #fff;
+	margin-right: 20px;
+}
+
+/*section*/
+/*.list section{
+	display:flex;
+}*/
+/*.list section div:nth-child(1){
+	display:flex;
+}*/
+.list section img{
+	--width:147.84px;
+	--height:113px;
+	width:1.4784rem;
+	height:1.13rem;
+}
+.list section div:nth-child(2){
+	display:flex;
+}
+.list section span{
+	font-size:20px;
+	color: #1b7db4;
+	margin-top: -111px;
+    margin-right: 216px;
+}
